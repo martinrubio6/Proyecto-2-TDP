@@ -1,0 +1,4 @@
+Algunas aclaraciones:
+1) El juego comprueba si una celda esta correctamente insertada al hacer click en "Comprobar Solucion".
+2) Si se oprime el boton para comprobar solucion, las celdas vacias o incorrectas se pintaran de rojo y,
+   cuando se edite una celda, todas las que estaban en rojo volveran a estar blancas para no confundir al usuario.
